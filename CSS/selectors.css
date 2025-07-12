@@ -1,0 +1,11 @@
+h1{
+    color: blueviolet;
+    /* this has higher priority then the class and id attribute */
+}
+
+#firstheading h1{
+    color:darkmagenta;
+}
+.secondheading {
+    color: deepskyblue;
+}
