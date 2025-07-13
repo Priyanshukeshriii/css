@@ -9,5 +9,10 @@
     
 }
 #heading2{
-    background-color: blueviolet;
+    background-color: rgb(150, 220,195);
+    margin: 2px;
+    padding: 2px;
+}
+#heading3{
+    background-color: #a5f2ba;
 }
