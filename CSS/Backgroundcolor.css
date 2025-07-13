@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 
 
@@ -15,4 +16,8 @@
 }
 #heading3{
     background-color: #a5f2ba;
+}
+#heading4{
+    background-color: rgba(210, 255, 150, 0.5);
+    /* this is use for transparency */
 }

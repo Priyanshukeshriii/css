@@ -1,0 +1,12 @@
+.box{
+    height: 50px;
+    width: 50px;
+}
+#box1{
+    background-color: blueviolet;
+    visibility: hidden;
+}
+#box2{
+    background-color: burlywood;
+    visibility: visible;
+}

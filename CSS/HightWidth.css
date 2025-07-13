@@ -1,0 +1,23 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+.box{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    /* text-align: justify; */
+    text-decoration: solid;
+}
+#box1{
+    background-color: blue;
+}
+#box2{
+    background-color: rgb(227, 125, 8);
+}
+#box3{
+    background-color: red;
+}
