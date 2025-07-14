@@ -1,0 +1,16 @@
+#fontSize{
+    font-size: 30px;
+}
+#fontweight{
+    font-weight: 800 ;
+}
+
+#style1{
+    font-style: italic;
+}
+#style2{
+    font-style: oblique;
+}
+#style3{
+    font-style: normal;
+}

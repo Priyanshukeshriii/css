@@ -1,0 +1,23 @@
+.box{
+    height: 50px;
+    width: 50px;
+} 
+#box1{
+    background-color: aquamarine;
+    text-align: center;
+    text-decoration:overline;
+}
+#box2{
+    background-color: rgb(233, 66, 33);
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    
+}
+#box3{
+    background-color: rgb(247, 106, 188);
+    text-align: right;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: brown;
+}
