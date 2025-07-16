@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin: 0;
+    height: 50px;
+    width: 50px;
+}
+
+
+#first{
+    background-color: chocolate;
+    padding: 20px;
+    margin: 5px 10px 15px 20px;
+    border: 5px  dashed black;
+border-radius: 16px 190px 90px 190px;
+}
+#second{
+    background-color: chocolate;
+    padding: 20px;
+    margin: 50px 10px 15px 20px;
+    border: 4px red solid;
+    box-sizing: border-box;
+    /* this include the padding and the border with in the box */
+}
+#third{
+    background-color: blueviolet;
+}
