@@ -1,0 +1,32 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    margin: 2px;
+    /* padding: 2px; */
+}
+#div1{
+    /* in this we cannot move the object */
+    position: static;
+    top: 200px;
+    /* this top has no use */
+}
+#div2{
+    /* take position from where it appers */
+    position: relative;
+    top: 700px;
+    left: 250px;
+}
+#div3{
+    /* this take position from the left corner of the page and it is fixd does not scroll */
+    position: fixed;
+    top: 400px;
+    right: 300px;
+}
+#div4{
+    /* this take position from the left corner of the page */
+    position: absolute;
+    top: 1000px;
+    right: 200px;
+}

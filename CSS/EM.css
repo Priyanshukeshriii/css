@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding: 0px;
+    font-size: 7px;
+}
+body{
+    font-size: 100px;
+   
+    background-color: cornflowerblue;
+}
+#first{
+    background-color: blueviolet;
+    font-size: 25px;
+    width: 300px;
+}
+#second{
+    background-color: blue;
+    font-size: 1.5em;
+    /* em is only for text size not for any other relative size */
+    width: 200%;
+}
+#third{
+    background-color: aqua;
+    font-size: 2rem;
+    /* rem use relative with root element */
+    width: 50%;
+}

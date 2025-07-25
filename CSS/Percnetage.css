@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#first{
+    background-color: blue;
+    height: 150px;
+    width: 100px;
+}
+#second{
+    background-color: aqua;
+    width: 50%;
+    height: 62%;
+}
